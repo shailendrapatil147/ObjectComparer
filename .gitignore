@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/object-comparer/v16/TestStore/0
+/ObjectComparer.Common/obj/Debug
+/ObjectComparer/obj/Debug
+/ObjectComparer.Tests/obj/Debug
+/ObjectComparer.Tests/bin/Debug
+/ObjectComparer.Contracts/obj/Debug
+/packages
