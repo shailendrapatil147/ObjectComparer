@@ -43,15 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contracts\Classes\Stundent.cs" />
-    <Compile Include="Contracts\Compare\CompareCollections.cs" />
-    <Compile Include="Contracts\Compare\CompareObject.cs" />
-    <Compile Include="Contracts\Compare\ComparePremitiveType.cs" />
-    <Compile Include="Factory\FactoryResolver.cs" />
     <Compile Include="Interfaces\Compare\ICompare.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Contracts\Collections\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

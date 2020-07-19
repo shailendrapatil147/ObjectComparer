@@ -41,13 +41,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Comparer.cs" />
+    <Compile Include="BusinessManagers\CompareCollections.cs" />
+    <Compile Include="BusinessManagers\CompareObject.cs" />
+    <Compile Include="BusinessManagers\ComparePremitiveType.cs" />
+    <Compile Include="Factory\FactoryResolver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ObjectComparer.Common\ObjectComparer.Common.csproj">
-      <Project>{4fbd91bc-c83e-42cf-ac60-ecf5344934ea}</Project>
-      <Name>ObjectComparer.Common</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ObjectComparer.Contracts\ObjectComparer.Contracts.csproj">
       <Project>{83e7a886-3678-476b-adbb-54f2b5cc02ed}</Project>
       <Name>ObjectComparer.Contracts</Name>

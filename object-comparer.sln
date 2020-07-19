@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectComparer", "ObjectCom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectComparer.Tests", "ObjectComparer.Tests\ObjectComparer.Tests.csproj", "{2E45C30D-998F-4E8C-A599-7E9DA491E934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectComparer.Common", "ObjectComparer.Common\ObjectComparer.Common.csproj", "{4FBD91BC-C83E-42CF-AC60-ECF5344934EA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectComparer.Contracts", "ObjectComparer.Contracts\ObjectComparer.Contracts.csproj", "{83E7A886-3678-476B-ADBB-54F2B5CC02ED}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{2E45C30D-998F-4E8C-A599-7E9DA491E934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E45C30D-998F-4E8C-A599-7E9DA491E934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E45C30D-998F-4E8C-A599-7E9DA491E934}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4FBD91BC-C83E-42CF-AC60-ECF5344934EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4FBD91BC-C83E-42CF-AC60-ECF5344934EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4FBD91BC-C83E-42CF-AC60-ECF5344934EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4FBD91BC-C83E-42CF-AC60-ECF5344934EA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{83E7A886-3678-476B-ADBB-54F2B5CC02ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{83E7A886-3678-476B-ADBB-54F2B5CC02ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83E7A886-3678-476B-ADBB-54F2B5CC02ED}.Release|Any CPU.ActiveCfg = Release|Any CPU

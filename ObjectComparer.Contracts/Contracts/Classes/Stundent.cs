@@ -1,6 +1,6 @@
 ﻿namespace ObjectComparer.Contracts.Contracts.Classes
 {
-    public class Stundent
+    public class Student
     {
         public int Id { get; set; }
         public string Name { get; set; }

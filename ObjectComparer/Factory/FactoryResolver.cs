@@ -1,5 +1,5 @@
 ﻿
-using ObjectComparer.Contracts.Contracts;
+using ObjectComparer.BusinessManagers;
 using ObjectComparer.Contracts.Interfaces;
 using System.Collections;
 

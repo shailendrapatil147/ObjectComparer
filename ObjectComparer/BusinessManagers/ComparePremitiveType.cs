@@ -1,6 +1,7 @@
 ﻿using ObjectComparer.Contracts.Interfaces;
 
-namespace ObjectComparer.Contracts.Contracts
+namespace ObjectComparer.BusinessManagers
+
 {
     public class ComparePremitiveType : ICompare
     {
